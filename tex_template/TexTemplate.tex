@@ -1,0 +1,111 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsfonts}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{hyperref}
+
+% This section ^^ is called a preample. Sometimes you need a ton of packages. Some Authors use like 400. Which is too stressful so I'm not including them.
+
+\title{LaTeX Template}
+\author{Matt Gonzalez}
+\date{August 2021}
+
+\begin{document}
+\maketitle
+
+
+\section{Introduction}
+The following document provides a LaTeX template along with some comments/descriptions in the actual ``.tex'' Document
+ 
+% Note that quotes need to be entered as follows: ``LaTeX is dumb'' as opposed to "LaTeX is dumb"
+ 
+\subsection{Notes}
+Here we use a subsection. \footnote{This is a footnote}
+
+
+
+\section{Equations}
+
+Here's an equation:
+
+\begin{equation}
+	\sum_{i=1}^N 2x +4 
+\end{equation}
+
+Here's an inline equation $2+2=\beta$
+
+
+\section{Bullets}
+
+\begin{itemize}
+	\item{Bullet points are fun}
+	\item{\href{https://tex.stackexchange.com/} {stackX}}
+	\item{\href{https://www.overleaf.com/learn/latex/Hyperlinks}{overleaf}}
+\end{itemize}
+
+
+\clearpage
+% note that \newpage is also sufficient. 
+
+
+
+\section{Tables} 
+
+The next section shows basic table stuff. Use Stargazer and copy/paste. Or use Stata. Sometimes use a \href{https://www.tablesgenerator.com/}{table generator}: They get tricky and annoying
+
+
+\begin{table}[!htbp] \centering 
+ \caption{Description of Missing Observations by Variable} % caption is table title
+ \label{}  % lable is for referencing in other parts of document
+\begin{tabular}{@{\extracolsep{5pt}} lcc} % lcc is alignment of columns (left, center, center
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex]  % hline is a horizontal line
+ Variables & Total Missing & Missing (\%)\\ 
+\hline \\[-1.8ex] 
+ Employee ID & $0$ & $0$ \\  % note the use of \\ (means newline)
+ Academic Plan & $0$ & $0$ \\ 
+CIP Code & $0$ & $0$ \\ 
+Race & $162$ & $3$ \\ 
+Gender & $27$ & $0$ \\ 
+Received Financial Aid & $0$ & $0$ \\ 
+Spring Financial Aid Contribution & $0$ & $0$ \\ 
+Expected Family Contribution & $0$ & $0$ \\ 
+Pell Eligible & $0$ & $0$ \\ 
+Has Transfer Credit & $0$ & $0$ \\ 
+Military Status & $1$ & $0$ \\ 
+Birth Date & $0$ & $0$ \\ 
+ Term Admitted& $0$ & $0$ \\ 
+High School Graduation Year & $0$ & $0$ \\ 
+Residency & $0$ & $0$ \\ 
+Cumulative GPA & $0$ & $0$ \\ 
+ Current GPA & $0$ & $0$ \\ 
+ Credits Taken Spring 2021 & $0$ & $0$ \\ 
+ Credits Passed Spring 2021 & $0$ & $0$ \\ 
+ ACT Score English & $5,384$ & $99$ \\ 
+ ACT Score Math & $5,385$ & $99$ \\ 
+ ACT Score Reading & $5,384$ & $99$ \\ 
+ SAT Score Math & $5,443$ & $100$ \\ 
+ SAT Score Reading & $4,675$ & $86$ \\ 
+ First Generation & $3,847$ & $71$ \\ 
+ Academic Standing & $202$ & $4$ \\ 
+ SAP Status & $2,044$ & $38$ \\ 
+ Age & $0$ & $0$ \\ 
+ Associate & $0$ & $0$ \\ 
+ Transient & $0$ & $0$ \\
+ Academic Plan & $0$ & $0$ \\ 
+ 
+\hline\hline
+\multicolumn{3}{c}{%
+ \begin{minipage}{12cm}%
+\smallskip % This notes format was annoying to figure out...copy it
+\footnotesize{ \textit{Notes:} The total number of observations is 5,443. Missing \% is calculated by dividing the number of total missing variables by the total number of observations in the dataset. Information regarding test scores can be found in the \textbf{Appendix} section of this document.} %
+ \end{minipage}%
+}\\
+\end{tabular}
+\end{table} 
+
+
+
+\end{document}
