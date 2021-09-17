@@ -12,8 +12,8 @@ To write these equations in markdown, simply wrap a `$$\epsilon$$` around the le
 
 | Letter Name| Greek Letter | Latex Syntax |
 |:------|:------------| :-------------| 
-| Alpha | $$\alpha A$$| `\alpha A`      |
-| Beta | $$\beta B$$  | `\beta B` |
+| Alpha |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha" title="alpha"> | `\alpha A`      |
+| Beta |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\beta" title="beta">| `\beta B` |
 | Gamma | $$\gamma \Gamma$$ | `\gamma \Gamma` |
 | Delta | $$\delta \Delta$$  | `\delta \Delta` |
 | Epsilon | $$\epsilon \varepsilon E$$  | `\epsilon \varepsilon E` |
