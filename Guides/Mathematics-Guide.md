@@ -35,5 +35,5 @@ To write these equations in markdown, simply wrap a `$$\epsilon$$` around the le
 | Phi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\phi" title="phi">| `\phi \varphi \Phi` |
 | Chi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\chi" title="chi">  | `\chi X` |
 | Psi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\psi" title="psi">| `\psi \Psi` |
-|Omega| <img src="https://latex.codecogs.com/svg.latex?\Large&space;\omega" title="omega">| <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Omega" title="Omega"> `\omega \Omega` |
+|Omega| <img src="https://latex.codecogs.com/svg.latex?\Large&space;\omega" title="omega"> <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Omega" title="Omega">|  `\omega \Omega` |
 
