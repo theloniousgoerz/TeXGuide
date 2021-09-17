@@ -14,26 +14,26 @@ To write these equations in markdown, simply wrap a `$$\epsilon$$` around the le
 |:------|:------------| :-------------| 
 | Alpha |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\alpha" title="alpha"> | `\alpha A`      |
 | Beta |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\beta" title="beta">| `\beta B` |
-| Gamma | $$\gamma \Gamma$$ | `\gamma \Gamma` |
-| Delta | $$\delta \Delta$$  | `\delta \Delta` |
-| Epsilon | $$\epsilon \varepsilon E$$  | `\epsilon \varepsilon E` |
-| Zeta | $$\zeta Z$$  | `\zeta Z` |
-| Eta | $$\eta H$$  | `\eta H` |
-| Theta | $$\theta \vartheta \Theta	$$  | `\theta \vartheta \Theta	` |
-| Iota | $$\iota I$$  | `\iota I` |
-| Kappa | $$\kappa K$$  | `\kappa K` |
-| Lambda | $$\lambda \Lambda$$  | `	\lambda \Lambda` |
-| Mu | $$\mu M$$  | `\mu M` |
-| Nu | $$\nu N$$  | `\nu N` |
-| Xi | $$\xi\Xi$$  | `\xi\Xi` |
-| O | $$o O$$  | `o O` |
-| Pi | $$\pi \Pi$$  | `\pi \Pi` |
-| Rho | $$\rho\varrho P$$  | `\rho \varrho P` |
-| Sigma | $$\sigma \Sigma$$  | `\sigma \Sigma` |
-| Tau | $$	\tau T$$  | `	\tau T` |
-| Upsilon | $$\upsilon \Upsilon$$  | `\upsilon \Upsilon` |
-| Phi | $$\phi \varphi \Phi$$  | `\phi \varphi \Phi` |
-| Chi | $$\chi X$$  | `\chi X` |
-| Psi | $$\psi \Psi$$  | `\psi \Psi` |
-|Omega| $$\omega \Omega$$  | `\omega \Omega` |
+| Gamma | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\gamma" title="gamma"> | `\gamma \Gamma` |
+| Delta | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\delta" title="delta">  | `\delta \Delta` |
+| Epsilon |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\epsilon" title="epsilon"> | `\epsilon \varepsilon E` |
+| Zeta | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\zeta" title="zeta">  | `\zeta Z` |
+| Eta | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\eta" title="eta">  | `\eta H` |
+| Theta |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\theta" title="theta">  | `\theta \vartheta \Theta	` |
+| Iota |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\iota" title="iota"> | `\iota I` |
+| Kappa | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\kappa" title="kappa">| `\kappa K` |
+| Lambda | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\lambda" title="lambda"> | `	\lambda \Lambda` |
+| Mu | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\mu" title="mu">  | `\mu M` |
+| Nu |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\nu" title="nu">  | `\nu N` |
+| Xi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\xi" title="xi">  | `\xi\Xi` |
+| O | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\O" title="O">  | `o O` |
+| Pi |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi" title="pi">| `\pi \Pi` |
+| Rho | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\rho" title="rho">| `\rho \varrho P` |
+| Sigma |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\sigma" title="sigma">| `\sigma \Sigma` |
+| Tau |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\tau" title="tau">  | `	\tau T` |
+| Upsilon |<img src="https://latex.codecogs.com/svg.latex?\Large&space;\upsilon" title="upsilon"> | `\upsilon \Upsilon` |
+| Phi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\phi" title="phi">| `\phi \varphi \Phi` |
+| Chi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\chi" title="chi">  | `\chi X` |
+| Psi | <img src="https://latex.codecogs.com/svg.latex?\Large&space;\psi" title="psi">| `\psi \Psi` |
+|Omega| <img src="https://latex.codecogs.com/svg.latex?\Large&space;\omega" title="omega">| <img src="https://latex.codecogs.com/svg.latex?\Large&space;\Omega" title="Omega"> `\omega \Omega` |
 
