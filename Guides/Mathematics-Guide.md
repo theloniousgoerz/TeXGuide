@@ -6,7 +6,7 @@ By Thelonious Goerz and Matthew Gonzalez
 
 This cheat sheet provides a reference for typesetting Math in Latex. Often, those choosing a typesetting software do so to be able to tailor specific equations describing formulae or models in an efficient and bespoke manner. Here are a list of common symbols and how to implement them in Latex. 
 
-To write these equations in markdown, simply wrap a `$$\epsilon$$` around the letter and it will come out as the letter like $$\epsilon$$. 
+To write these equations in markdown, simply wrap a `$$\epsilon$$` around the letter and it will come out as the letter like <img src="https://latex.codecogs.com/svg.latex?\Large&space;\epsilon" title="epsilon">. 
 
 # Greek letters
 
